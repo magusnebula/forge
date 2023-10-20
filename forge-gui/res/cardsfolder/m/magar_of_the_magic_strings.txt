@@ -1,0 +1,6 @@
+Name: Magar of the Magic Strings
+ManaCost:1 B R
+Types:Legendary Creature Minotaur Performer
+PT:3/3
+A:AB$ ChangeZone | Cost$ 1 B R | ValidCard$ Instant,Sorcery | Origin$ Graveyard | Destination$ Battlefield | SorcerySpeed$ True | Mode$ TurnFace | FaceDownSetType$ Artifact & Creature & Cyberman | FaceDownPower$ 2 | FaceDownToughness$ 2 | SpellDescription$ Turn target creature face down. It's a 2/2 Cyberman artifact creature.
+Oracle:Note the name of target instant or sorcery card in your graveyard and put it onto the battlefield face down. It's a 3/3 creature with "Whenever this creature deals combat damage to a player, you may create a copy of the card with the noted name. You may cast the copy without paying its mana cost" and "If this creature would leave the battlefield, exile it instead of putting it anywhere else."
